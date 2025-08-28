@@ -1,2 +1,0 @@
-# MachineLearning
-La materia de Machine learning y Deep learning basada en datos promueve que el alumno desarrolle competencias para proponer y realizar proyectos basados en la aplicación de modelos de inteligencia artificial en un contexto empresarial de tipo regional, nacional e inclusive internación. Con las habilidades y destrezas adquiridas, el alumno podrá desarrollar nuevas ideas que resulten en estrategias adecuadas para cambios de impacto organizacional radicales e importantes.
